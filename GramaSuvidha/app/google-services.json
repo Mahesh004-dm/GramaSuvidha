@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533143949063",
+    "project_id": "gramasuvidha-bd46e",
+    "storage_bucket": "gramasuvidha-bd46e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533143949063:android:7630ac4c707921438f7fa2",
+        "android_client_info": {
+          "package_name": "com.grama.suvidha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAPB0rFVWZrUAN3qbsVyemkH00gWWIR84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
