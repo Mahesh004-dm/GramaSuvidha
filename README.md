@@ -1,4 +1,4 @@
-# Grama Suvidha Portal 🌿
+# Grama Suvidha Portal 
 
 An Android application designed to improve transparency and citizen awareness 
 in rural infrastructure development at the Panchayat level.
