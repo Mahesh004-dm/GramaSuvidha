@@ -103,7 +103,6 @@ GramaSuvidha/
 ## 👨‍💻 Developer
 
 **D Mahesh**
-USN: 1KG22CS029
 K.S. School of Engineering and Management
 Internship at MindMatrix — 2025-26
 
